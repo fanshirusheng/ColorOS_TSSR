@@ -4,7 +4,7 @@ action_name="ColorOS触控采样率"
 action_author="酷安@凡世如笙"
 action_description="为欧加真设备提供更高的触控采样率服务"
 
-print_languages="cn"                   # Default language for printing
+print_languages="zh"                   # Default language for printing
 
 # About Install
 magisk_min_version="25400"             # Minimum required version of Magisk
